@@ -30,7 +30,7 @@ Add to your `/composer.json` file :
 run composer update
 
 ``` bash
-$ composer update --no-custom-installers --no-scripts --verbose
+$ composer update --no-plugins --no-scripts --verbose
 ```
 
 ## Enable the Bundle
